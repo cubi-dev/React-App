@@ -1,0 +1,58 @@
+const ContactData = [
+     {
+       id: 1,
+       name: "User1",
+       email: "abc@gmail.com",
+       phone: "0123456789",
+       program: 0, 
+       message: "", 
+       agree: false,
+     },
+     {
+       id: 2,
+       name: "User2",
+       email: "abc@gmail.com",
+       phone: "0123456789",
+       program: 0, 
+       message: "", 
+       agree: false,
+     },
+     {
+       id: 3,
+       name: "User3",
+       email: "abc@gmail.com",
+       phone: "0123456789",
+       program: 0, 
+       message: "", 
+       agree: false,
+     },
+     {
+       id: 4,
+       name: "User4",
+       email: "abc@gmail.com",
+       phone: "0123456789",
+       program: 0, 
+       message: "", 
+       agree: false,
+     },
+     {
+       id: 5,
+       name: "User5",
+       email: "abc@gmail.com",
+       phone: "0123456789",
+       program: 0, 
+       message: "", 
+       agree: false,
+     },
+     {
+       id: 6,
+       name: "User6",
+       email: "abc@gmail.com",
+       phone: "0123456789",
+       program: 0, 
+       message: "", 
+       agree: false,
+     },
+    
+   ];
+   export default ContactData;
